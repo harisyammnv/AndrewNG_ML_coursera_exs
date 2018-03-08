@@ -3,7 +3,7 @@
 **Introductory level Machine Learning**
 
 Instructor: [Andrew Ng](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiCt_L48bnXAhUp34MKHezOAsMQFggoMAA&url=http%3A%2F%2Fwww.andrewng.org%2F&usg=AOvVaw2-r5JwMkENufgUkui77g_e)
-# The projects are implemented in MATLAB
+### The projects are implemented in MATLAB
 - Exercise 1: [Linear Regression](https://github.com/harisyammnv/AndrewNG_ML_coursera_exs/tree/master/Coursera_AndrewNG_ML_Exercises/Ex1/ex1/ex1.m)
 - Exercise 2: [Multivariate Regression](https://github.com/harisyammnv/AndrewNG_ML_coursera_exs/tree/master/Coursera_AndrewNG_ML_Exercises/Ex2/ex2/ex2.m)
 - Exercise 3: [Logisitic Regression with Regularization](https://github.com/harisyammnv/AndrewNG_ML_coursera_exs/tree/master/Coursera_AndrewNG_ML_Exercises/Ex3/ex3/ex3.m)
